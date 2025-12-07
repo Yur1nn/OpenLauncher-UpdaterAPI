@@ -1,14 +1,11 @@
 {
-  "launcherName": "MeoFamily Launcher",
-  "launcherVersion": "1.0.0",
-  "languageFile": "vi.json",
-  "updater": {
-    "enabled": true,
-    "url": "https://raw.githubusercontent.com/Yur1nn/OpenLauncher-UpdaterAPI/refs/heads/main/subs/meofamily/info.json"
-  },
-  "links": {
-    "donate": "https://discord.gg/wyPPQwNWfC",
-    "discord": "https://discord.gg/VNFkS4QQW9"
+  "url": "https://api.meofamily.net/updater/launcher",
+  "javaUrl": "https://download.oracle.com/java/21/archive/jdk-21.0.8_windows-x64_bin.zip",
+  "metaFiles": {
+    "info": "https://raw.githubusercontent.com/Yur1nn/OpenLauncher-UpdaterAPI/refs/heads/main/subs/meofamily/info.json",
+    "vanilla": "https://piston-meta.mojang.com/v1/packages/05915435a9616afab9d5e6cba95098111f7359e2/1.21.1.json",
+    "fabric": "https://meta.fabricmc.net/v2/versions/loader/1.21.1",
+    "mods": "https://raw.githubusercontent.com/Yur1nn/OpenLauncher-UpdaterAPI/refs/heads/main/subs/meofamily/mods.json"
   },
   "modLoader": "fabric"
 }

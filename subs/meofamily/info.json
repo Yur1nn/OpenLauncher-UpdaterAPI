@@ -1,0 +1,15 @@
+{
+  "launcherName": "MeoFamily Launcher",
+  "launcherVersion": "1.0.0",
+  "languageFile": "vi.json",
+  "credit": "Made with ❤️ by Yur1nn",
+  "updater": {
+    "enabled": true,
+    "url": "https://raw.githubusercontent.com/Yur1nn/OpenLauncher-UpdaterAPI/refs/heads/main/subs/meofamily/info.json"
+  },
+  "links": {
+    "donate": "https://discord.gg/wyPPQwNWfC",
+    "discord": "https://discord.gg/VNFkS4QQW9"
+  },
+  "modLoader": "fabric"
+}
